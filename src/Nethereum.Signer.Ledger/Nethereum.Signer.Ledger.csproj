@@ -4,7 +4,7 @@
     <Description>Netherum.Signer.Ledger provides the External Signing capability for Ethereum transactions and Messages using Ledger Hardware wallets</Description>
     <AssemblyTitle>Nethereum.Signer.Ledger</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(ExternalSignerFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.Signer.Ledger</AssemblyName>
     <PackageId>Nethereum.Signer.Ledger</PackageId>
     <PackageTags>Netherum;Ethereum;Blockchain;Ledger</PackageTags>

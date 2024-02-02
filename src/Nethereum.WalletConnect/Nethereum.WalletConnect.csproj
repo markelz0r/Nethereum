@@ -6,7 +6,7 @@
 		<Description>Nethereum.WalletConnect Nethereum WalletConnect integration</Description>
 		<AssemblyTitle>Nethereum.WalletConnect</AssemblyTitle>
 		<Version>$(NethereumVersion)</Version>
-		<TargetFrameworks>netstandard2.1;net6.0;</TargetFrameworks>
+		<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 		<AssemblyName>Nethereum.WalletConnect</AssemblyName>
 		<PackageId>Nethereum.WalletConnect</PackageId>
 		<PackageTags>Netherum;WalletConnect;Ethereum;Blockchain</PackageTags>

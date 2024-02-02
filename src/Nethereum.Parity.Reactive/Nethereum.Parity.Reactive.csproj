@@ -4,7 +4,7 @@
     <Description>Nethereum.Parity.Reactive, Reactive Client Subscriptions pub / sub for Parity</Description>
     <AssemblyTitle>Nethereum.Parity.Reactive</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(ReactiveFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.Parity.Reactive</AssemblyName>
     <PackageId>Nethereum.Parity.Reactive</PackageId>
     <PackageTags>Json;RPC;Reactive;Ethereum;Nethereum;Parity</PackageTags>

@@ -4,7 +4,7 @@
     <Description>Nethereum.GnosisSafe Ethereum Service to interact with Gnosis Safe contracts</Description>
     <AssemblyTitle>Nethereum.GnosisSafe</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.GnosisSafe</AssemblyName>
     <PackageId>Nethereum.GnosisSafe</PackageId>
     <PackageTags>Netherum;Ethereum;Blockchain;Crypto 2.0</PackageTags>

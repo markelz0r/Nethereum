@@ -4,7 +4,7 @@
 		<Description>Nethereum Merkle Patrica trie and verification</Description>
 		<AssemblyTitle>Nethereum.Merkle.Patricia</AssemblyTitle>
 		<Version>$(NethereumVersion)</Version>
-		<TargetFrameworks>$(DefaultFrameworksUnitySupport)</TargetFrameworks>
+		<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 		<AssemblyName>Nethereum.Merkle.Patricia</AssemblyName>
 		<PackageId>Nethereum.Merkle.Patricia</PackageId>
 	</PropertyGroup>

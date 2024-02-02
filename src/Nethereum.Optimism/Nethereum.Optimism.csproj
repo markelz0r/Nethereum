@@ -4,7 +4,7 @@
 		<Description>Nethereum.Optimism L2 Ethereum Smart contract Services to interact with Optimism L1 and L2 smart contracts</Description>
 		<AssemblyTitle>Nethereum.Optimism</AssemblyTitle>
 		<VersionPrefix>$(NethereumVersion)</VersionPrefix>
-		<TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+		<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 		<AssemblyName>Nethereum.Optimism</AssemblyName>
 		<PackageId>Nethereum.Optimism</PackageId>
 		<PackageTags>Netherum;Ethereum;Optimism;L2;Blockchain;Crypto 2.0</PackageTags>

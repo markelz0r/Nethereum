@@ -5,7 +5,7 @@
 		<Description>Nethereum.UI Common services to work with Nethereum and FrontEnds like EthereumHostProvider, SiweAuthenticationService</Description>
 		<AssemblyTitle>Nethereum.UI</AssemblyTitle>
 		<Version>$(NethereumVersion)</Version>
-		<TargetFrameworks>$(UIFrameworks)</TargetFrameworks>
+		<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 		<AssemblyName>Nethereum.UI</AssemblyName>
 		<PackageId>Nethereum.UI</PackageId>
 		<PackageTags>Netherum;Ethereum;Blockchain;Crypto 2.0</PackageTags>

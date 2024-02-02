@@ -4,7 +4,7 @@
 		<Description>Nethereum Merkle trees</Description>
 		<AssemblyTitle>Nethereum.Merkle</AssemblyTitle>
 		<Version>$(NethereumVersion)</Version>
-		<TargetFrameworks>$(DefaultFrameworksUnitySupport)</TargetFrameworks>
+		<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 		<AssemblyName>Nethereum.Merkle</AssemblyName>
 		<PackageId>Nethereum.Merkle</PackageId>
 	</PropertyGroup>

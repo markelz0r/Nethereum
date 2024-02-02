@@ -4,7 +4,7 @@
     <Description>Nethereum.Siwe library to support Siwe (Sign in with Ethereum)</Description>
     <AssemblyTitle>Nethereum.Siwe</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.Siwe</AssemblyName>
     <PackageId>Nethereum.Siwe</PackageId>
     <PackageTags>Netherum;Ethereum;Blockchain;Siwe</PackageTags>

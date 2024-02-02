@@ -4,7 +4,7 @@
 	<Description>Nethereum.EVM EVM Simulator and ByteCode utils</Description>
 	<AssemblyTitle>Nethereum.EVM</AssemblyTitle>
 	<Version>$(NethereumVersion)</Version>
-	<TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+	<TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
 	<AssemblyName>Nethereum.EVM</AssemblyName>
 	<PackageId>Nethereum.EVM</PackageId>
 	<PackageTags>Netherum;Ethereum;Blockchain;EVM</PackageTags>

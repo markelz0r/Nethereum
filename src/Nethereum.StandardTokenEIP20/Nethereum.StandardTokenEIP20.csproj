@@ -4,7 +4,7 @@
     <Description>Nethereum.StandardTokenEIP20 Ethereum Service to interact with EIP20 compliant contracts</Description>
     <AssemblyTitle>Nethereum.StandardTokenEIP20</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.StandardTokenEIP20</AssemblyName>
     <PackageId>Nethereum.StandardTokenEIP20</PackageId>
     <PackageTags>Netherum;Ethereum;Blockchain;Crypto 2.0</PackageTags>

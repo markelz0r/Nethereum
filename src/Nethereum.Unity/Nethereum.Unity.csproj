@@ -4,7 +4,7 @@
     <Description>Nethereum.Unity Nethereum Unity Class Library to interact with Ethereum from Unity3d</Description>
     <AssemblyTitle>Nethereum.Unity</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(UnityFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.Unity</AssemblyName>
     <PackageId>Nethereum.Unity</PackageId>
     <PackageTags>Netherum;Unity3d;Unity;Ethereum;Blockchain;Crypto 2.0</PackageTags>

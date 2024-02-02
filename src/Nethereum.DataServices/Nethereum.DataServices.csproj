@@ -4,7 +4,7 @@
     <Description>Nethereum DataServices library, provides client access to different external services like the Etherscan rest apis</Description>
     <AssemblyTitle>Nethereum.DataServices</AssemblyTitle>
     <VersionPrefix>$(NethereumVersion)</VersionPrefix>
-    <TargetFrameworks>$(DefaultFrameworks)</TargetFrameworks>
+    <TargetFrameworks>net5.0;net8.0;</TargetFrameworks>
     <AssemblyName>Nethereum.DataServices</AssemblyName>
     <PackageId>Nethereum.DataServices</PackageId>
     <PackageTags>Netherum;Ethereum;Blockchain;Etherscan</PackageTags>

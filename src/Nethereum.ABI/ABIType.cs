@@ -48,6 +48,8 @@ namespace Nethereum.ABI
                 return new StringType();
             if ("bytes".Equals(typeName))
                 return new BytesType();
+            if ("felt252".Equals(typeName))
+                return new FeltType(typeName);
             if (typeName.StartsWith("bytes", StringComparison.Ordinal))
             {
                 var size = Convert.ToInt32(typeName.Substring(5));
